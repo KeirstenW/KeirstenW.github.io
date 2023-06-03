@@ -21,20 +21,19 @@
 }
 
 header {
-  background-color: #b0a9df;
   border-style: dashed;
   border-color: aliceblue;
-  
   display: grid;
   grid-template-rows: 1fr .1fr 1fr;
   align-content: center;
   
   margin: 5em 2% 1em 2%;
   padding: 1em;
-  width: 40%;
   height: 70%;
   min-height: 500px;
   min-width: 350px;
+
+  background-position: center;
 }
 
 h1 {

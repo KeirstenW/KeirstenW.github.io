@@ -30,10 +30,11 @@ header {
   margin: 5em 2% 1em 2%;
   padding: 1em;
   height: 70%;
-  min-height: 500px;
+  min-height: 470px;
   min-width: 350px;
 
   background-position: center;
+  background-repeat: no-repeat;
 }
 
 h1 {
